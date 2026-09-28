@@ -29,7 +29,7 @@ ___
 
 ## Typographic replacements
 
-Enable typographer option to see result.
+Enable typographer option to see result--> hola aqui va a haber un conflicto
 
 (c) (C) (r) (R) (tm) (TM) +-
 
